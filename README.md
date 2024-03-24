@@ -1,6 +1,5 @@
 ﻿# Phishing-Emails-Detection-Using-Machine-Learning-And-Deep-Learning-Algorithms
-# E-Mail Phishing Detection using Machine Learning and Deep Learning
-
+ 
 ## Introduction
 This project aims to develop a machine learning solution to detect phishing attempts, a prevalent issue aimed at deceiving individuals and acquiring personal information or account details through deceptive emails or messages. As a part of my graduation project, I have conducted a comprehensive literature review on identity theft attacks and explored contemporary solutions to address this challenge.
 
