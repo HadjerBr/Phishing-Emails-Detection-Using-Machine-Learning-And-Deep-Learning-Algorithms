@@ -5,10 +5,10 @@ This project aims to develop a machine learning solution to detect phishing atte
 
 ## Dataset
 The dataset used in this project contains:
-- 9001 Normal emails
-- 9001 Fake emails
-- 9138 Harassment emails
-- 5287 Suspicious emails
+- 12498 Normal emails
+- 5142 Fake emails
+- 19190 Harassment emails
+- 5323 Suspicious emails
 
 ## Data Preprocessing
 To prepare the dataset for model training, several preprocessing steps were undertaken:
@@ -21,7 +21,7 @@ Various text representation methods were employed to convert textual data into n
 - TF-IDF
 - Word2Vec
 
-## Machine Learning Algorithms
+## Machine Learning and Deep Learning Algorithms
 Six machine learning algorithms were implemented to identify phishing emails:
 - Logistic Regression
 - Random Forest
