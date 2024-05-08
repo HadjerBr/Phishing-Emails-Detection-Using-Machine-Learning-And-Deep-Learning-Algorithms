@@ -1,0 +1,44 @@
+Without extra features: 
+Bow:
+    Lr: 97
+    Rf: 97
+    Nb: 96
+    Svm:
+
+Cnn: 99
+Lstm: 97
+
+Tf-idf:
+    Lr: 96
+    Rf: 97
+    Nb: 95
+    Svm:
+
+Word2vec:
+    Lr: 93
+    Rf: 96
+    Nb: 84
+    Svm: 94
+
+
+With extra features:
+Bow:
+    Lr: 98
+    Rf: 99
+    Nb: 96
+    Svm:
+
+Cnn: 98
+Lstm: 97
+
+Tf-idf:
+    Lr: 97
+    Rf: 99
+    Nb: 93
+    Svm:
+
+Word2vec:
+    Lr: 93
+    Rf: 97
+    Nb: 83
+    Svm: 94
